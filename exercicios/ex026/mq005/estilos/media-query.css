@@ -9,13 +9,6 @@ Desktop: 992px até 1200px
 Grandes telas: acima de 1200px 
 */
 
-:root {
-    --cor0: #03045E;
-    --cor1: #0077B6;
-    --cor2: #00B4D8;
-    --cor3: #90E0EF;
-    --cor4: #CAF0F8;
-    }
 
 @media screen and (min-width: 768px) {
     span#burguer {
